@@ -8,7 +8,7 @@
   "server": {
     "ip": "neegus.aternos.me",
     "port": 40500,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
